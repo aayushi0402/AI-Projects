@@ -1,1 +1,1 @@
-# AI-Projects
+# Brain Tumor Detection
